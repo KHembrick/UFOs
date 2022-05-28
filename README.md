@@ -9,7 +9,7 @@
 * Below is the updated filter table without any filters in place.
 ![Challenge 11 image](https://user-images.githubusercontent.com/96032255/170843906-ccf1c9c4-8c88-4e9b-8b06-15972ca27359.PNG)
 
-* The new update allowing users to filter using multiple criteria works properly. As shown in the table below and gives precise results.
+* The new update allowing users to filter using all five filter options works properly. As shown in the table below and gives precise results.
 ![module 11 filtered](https://user-images.githubusercontent.com/96032255/170843974-8c6d6be4-80a8-48b7-b777-cf4c039e0c9d.PNG)
 
 * You are able to get a more precise result using all five filters but the table will also yield results with just one or two filters. The table below shows the results using only two filters date and shape.
